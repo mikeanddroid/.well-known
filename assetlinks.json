@@ -1,9 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.onsitemed.health",
-    "sha256_cert_fingerprints":
-    ["EF:9A:81:9F:F2:62:FB:70:81:04:85:4A:DA:A1:E9:62:C6:FF:A4:FB:00:93:B8:88:DD:3A:A4:21:07:E9:64:9D"]
-  }
-}]
