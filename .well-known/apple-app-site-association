@@ -1,0 +1,26 @@
+{
+   "webcredentials":{
+      "apps":[
+         "7TAPSDP94P.com.onsitemed.health"
+      ]
+   },
+   "applinks":{
+      "apps":[
+
+      ],
+      "details":[
+         {
+            "appID":"7TAPSDP94P.com.onsitemed.health",
+            "paths":["*"],
+            "appIDs":[
+               "7TAPSDP94P.com.onsitemed.health"
+            ],
+            "components":[
+               {
+                  "/":"*"
+               }
+            ]
+         }
+      ]
+   }
+}
