@@ -1,0 +1,11 @@
+{
+"applinks": {
+    "apps": [ ],
+    "details": [
+        {
+            "appID": "7TAPSDP94P.com.onsitemed.health",
+            "paths": ["*"]
+        }
+    ]
+}
+}
